@@ -45,5 +45,11 @@
 <a href="mailto:rafah1932@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://api.whatsapp.com/send?phone=5511981760194">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://t.me/RafaEstevan">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 **Discord**: RafaEstevan#8823
