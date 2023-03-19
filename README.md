@@ -18,7 +18,7 @@
 </p>
 
 ## **🐉 About me:**
-* Rafael Estevan, 27 years
+* Rafael Estevan, 28 years
 * Front-End programmer
 * Currently studying VueJs
 
